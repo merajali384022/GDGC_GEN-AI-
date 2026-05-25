@@ -3,7 +3,7 @@
 
 This repository contains my class assignments, practice notebooks, and projects related to Prompt Engineering and Generative AI.
 
-## Assignment 2
+
 
 ### Cricket Player Persona Generator Using Groq API
 
